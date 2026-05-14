@@ -1,0 +1,2 @@
+.gitattributes  export-ignore
+man/figures     export-ignore
